@@ -8,6 +8,6 @@ Potato farming is one of the most important agricultural practices, but it is of
 The dataset used in this project consists of images of potato leaves affected by various diseases such as Early Blight, Late Blight, and other common potato diseases. The dataset was sourced from .
 
 ## Dataset Structure:
-**Healthy:** Images of healthy potato leaves.
-**Early Blight:** Images of potato leaves affected by Early Blight disease.
-**Late Blight:** Images of potato leaves affected by Late Blight disease.
+**Healthy:** Images of healthy potato leaves.\
+**Early Blight:** Images of potato leaves affected by Early Blight disease.\
+**Late Blight:** Images of potato leaves affected by Late Blight disease.\
