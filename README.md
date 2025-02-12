@@ -5,7 +5,7 @@ This project implements a deep learning model to classify potato diseases from i
 Potato farming is one of the most important agricultural practices, but it is often affected by various diseases that reduce crop yields. This project aims to assist farmers in identifying these diseases using deep learning techniques, enabling early detection and preventive measures.
 
 ## Dataset
-The dataset used in this project consists of images of potato leaves affected by various diseases such as Early Blight, Late Blight, and other common potato diseases. The dataset was sourced from .
+The dataset used in this project consists of images of potato leaves affected by various diseases such as Early Blight, Late Blight, and other common potato diseases. The dataset was sourced from (https://www.kaggle.com/datasets/arjuntejaswi/plant-village).
 
 ## Dataset Structure:
 - **Healthy:** Images of healthy potato leaves.
