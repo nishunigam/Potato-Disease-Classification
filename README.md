@@ -1,4 +1,4 @@
-# Potato Disease Classification Using Deep Learning
+# **Potato Disease Classification Using Deep Learning**
 This project implements a deep learning model to classify potato diseases from images of potato leaves. The model is based on Convolutional Neural Networks (CNN), leveraging TensorFlow and Keras to detect and predict various potato leaf diseases.
 
 ## Problem Statement
