@@ -8,18 +8,19 @@ Potato farming is one of the most important agricultural practices, but it is of
 The dataset used in this project consists of images of potato leaves affected by various diseases such as Early Blight, Late Blight, and other common potato diseases. The dataset was sourced from .
 
 ## Dataset Structure:
--**Healthy:** Images of healthy potato leaves.
-***Early Blight:** Images of potato leaves affected by Early Blight disease.
+-**Healthy:** Images of healthy potato leaves.\
+***Early Blight:** Images of potato leaves affected by Early Blight disease.\
 +**Late Blight:** Images of potato leaves affected by Late Blight disease.
 
 ## Model Architecture
 The classification model is built using Convolutional Neural Networks (CNN), which are well-suited for image classification tasks. The network architecture is optimized to provide accurate predictions on the potato disease dataset.
 
 ## Key Steps:
--Data Preprocessing: Images are resized, normalized, and augmented to improve model performance.
-*Model Training: A CNN model is trained using TensorFlow/Keras, with multiple layers to extract important features from the images.
-+Model Evaluation: The model's accuracy and performance are evaluated using test data, and metrics like precision, recall, and F1-score are used to assess classification quality.
-Features
+-Data Preprocessing: Images are resized, normalized, and augmented to improve model performance.\
+*Model Training: A CNN model is trained using TensorFlow/Keras, with multiple layers to extract important features from the images.\
++Model Evaluation: The model's accuracy and performance are evaluated using test data, and metrics like precision, recall, and F1-score are used to assess classification quality.\
+
+## Features
 Image Classification of Potato Leaf Diseases using a CNN model.
 Data augmentation techniques (rotation, zoom, flip) applied for model generalization.
 Saved model in .h5 format for easy deployment and inference.
